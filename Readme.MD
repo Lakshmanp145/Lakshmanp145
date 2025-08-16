@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Lakshmanudu Pagala
 
-### Software Engineer – DevOps Engineer @ Infosys Limited  
+### DevOps Engineer @ Infosys Limited  
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lakshmanudu-pagala-501262324/)
