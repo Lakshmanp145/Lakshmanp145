@@ -120,3 +120,11 @@ Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience** in a
 </div>
 
 ---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Lakshmanp145/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
