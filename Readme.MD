@@ -16,7 +16,7 @@ Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience** in a
 
 ---
 
-### 🧰 Tech Stack
+<!-- ### 🧰 Tech Stack
 
 - **OS**                       : Linux
 - **Cloud**                    : AWS   
@@ -31,7 +31,7 @@ Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience** in a
 - **Security**                 : IAM, RBAC 
 - **Scanning Tools**           : SonarQube, Veracode, ECR Scan
 
----
+--- -->
 
 ## ⚡ Tech Stack
 
