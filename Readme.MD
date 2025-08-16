@@ -12,9 +12,7 @@
 
 ---
 
-Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience**.  Expertise in automating infrastructure, streamlining CI/CD, 
-pipelines, Skilled in Terraform, container orchestration (Docker, Kubernetes), and DevOps best practices ensuring scalable and efficient cloud Environments.Revamped CI/CD pipelines with Jenkins and Docker, accelerating software release cycles by 75% and drastically reducing 
-deployment failures to under 1% company-wide.
+Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments.
 
 ---
 
