@@ -40,7 +40,7 @@ Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience** in a
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ☁️ Cloud & Platforms
+### ☁️ Cloud Platform
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Scripting
