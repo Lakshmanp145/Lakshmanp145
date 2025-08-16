@@ -68,15 +68,15 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
 
 ### 🔧 What I Do
 
-- 🛠️ Build and manage scalable infrastructure on **AWS** using **Terraform** for **secure**, **repeatable**, and automated provisioning
-- ⚙️ Implement Configuration Management with **Ansible**, ensuring consistent server provisioning and automated deployments 
-- 🚀 Design and implement efficient CI/CD pipelines with **Jenkins**, accelerating software delivery  
-- 🗃️ Manage source code and team collaboration using **GitHub**, enabling streamlined workflows and version control
-- 🐳 Deploy and orchestrate applications with **Docker** and **Kubernetes (EKS)** for high availability and scalability
-- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** 
-- 🔐 Secure cloud environments using **IAM**, **RBAC** ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Prometheus**, **Grafana**, and **CloudWatch**, minimizing downtime
+- 🛠️ Build and manage scalable infrastructure on **AWS** using **Terraform** for **secure**, **repeatable**, and automated provisioning.
+- ⚙️ Implement Configuration Management with **Ansible**, ensuring consistent server provisioning and automated deployments.
+- 🚀 Design and implement efficient CI/CD pipelines with **Jenkins**, accelerating software delivery.
+- 🗃️ Manage source code and team collaboration using **GitHub**, enabling streamlined workflows and version control.
+- 🐳 Deploy and orchestrate applications with **Docker** and **Kubernetes (EKS)** for high availability and scalability.
+- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**,improving consistency and speed. 
+- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus**. 
+- 🔐 Secure cloud environments using **IAM**, **RBAC** ensuring compliance and access control.  
+- 📈 Ensure observability and performance with **Prometheus**, **Grafana**, and **CloudWatch**, minimizing downtime.
 
 ---
 
