@@ -82,7 +82,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
 
 ### 💼 Career Snapshot
 
-- 🏢 **Infosys** – System Engineer / DevOps & AWS Cloud Engineer (3+ Years)
+- 🏢 **Infosys** – *DevOps & AWS Cloud Engineer (3+ Years)*
   Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
 
 ---
