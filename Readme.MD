@@ -7,7 +7,7 @@
 ### Software Engineer – DevOps Engineer @ Infosys Limited  
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/inlakshmanudu-pagala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lakshmanudu-pagala-501262324/)
 [![Gmail](https://img.shields.io/badge/Email-laxman.gdn@gmail.com-red?logo=gmail&style=flat)](mailto:laxman.gdn@gmail.com)
 
 ---
