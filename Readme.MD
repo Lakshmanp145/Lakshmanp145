@@ -12,7 +12,9 @@
 
 ---
 
-Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience** in architecting and automating scalable, secure, and resilient cloud platforms on Amazon Web Services (AWS). I specialize in infrastructure automation, CI/CD pipelines, and reliability engineering, ensuring faster delivery cycles and reduced downtime.
+Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience**.  Expertise in automating infrastructure, streamlining CI/CD, 
+pipelines, Skilled in Terraform, container orchestration (Docker, Kubernetes), and DevOps best practices ensuring scalable and efficient cloud Environments.Revamped CI/CD pipelines with Jenkins and Docker, accelerating software release cycles by 75% and drastically reducing 
+deployment failures to under 1% company-wide.
 
 ---
 
