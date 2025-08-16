@@ -84,15 +84,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
 
 - 🏢 **Infosys** – System Engineer / DevOps & AWS Cloud Engineer (3+ Years)
 
-  - Architecting and managing AWS cloud infrastructure with Terraform, Ansible, Docker, and Kubernetes (EKS) to deliver scalable and   resilient platforms.
-
-  - Implementing and optimizing CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time and ensuring faster release cycles.
-
-  - Automating operational workflows with Linux, Shell scripting, and Python, improving consistency and reducing manual effort.
-
-  - Enhancing monitoring and observability with CloudWatch, Prometheus, Grafana, and ELK Stack, ensuring proactive incident detection and resolution.
-
-  - Strengthening security and compliance through IAM, RBAC, and VPC configurations, enabling secure and compliant cloud operations.
+  Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
 
 ---
 
