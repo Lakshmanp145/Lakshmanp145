@@ -18,17 +18,18 @@ Passionate **DevOps & AWS Cloud Engineer**  with **3+ years of experience** in a
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS   
-- **CI/CD**: GitHub Actions, Jenkins
-- **SCM**: GitHub
-- **IaC**: Terraform  
-- **Configuration Management**: Ansible
-- **Containers**: Docker, Kubernetes  
-- **Scripting**: Shell, Python  
-- **Monitoring**: Prometheus, Grafana, Elk stack, CloudWatch
-- **Security**: IAM, RBAC 
-- **Tools**: Nexus, SonarQube
-- **OS**: Linux
+- **OS**                       : Linux
+- **Cloud**                    : AWS   
+- **CI/CD**                    : Jenkins, GitHub Actions
+- **SCM**                      : GitHub
+- **IaC**                      : Terraform  
+- **Configuration Management** : Ansible
+- **containerization**         : Docker
+- **Container Orchestration**  : Kubernetes 
+- **Scripting**                : Shell, Python  
+- **Monitoring**               : Prometheus, Grafana, Elk stack, CloudWatch
+- **Security**                 : IAM, RBAC 
+- **Scanning Tools**           : SonarQube, Veracode, ECR Scan
 
 ---
 
