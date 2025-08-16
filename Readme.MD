@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Lakshmanp145/Lakshmanp145/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.mp4" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Lakshmanp145/Lakshmanp145/blob/main/Banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Lakshmanudu Pagala
