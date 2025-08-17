@@ -155,12 +155,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
 ---
 
 ### 📊 GitHub Activity Graph
-<!-- [![Srikanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshmanp145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Lakshman's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmanp145&theme=tokyonight) -->
-
-[![](https://raw.githubusercontent.com/Lakshmanp145/Lakshmanp145/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Lakshmanp145/Lakshmanp145/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Srikanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshmanp145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
