@@ -155,7 +155,8 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
 ---
 
 ### 📊 GitHub Activity Graph
-[![Srikanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshmanp145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Srikanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshmanp145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+![Lakshman's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmanp145&theme=tokyonight)
 
 ---
 
