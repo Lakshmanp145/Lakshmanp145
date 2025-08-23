@@ -149,7 +149,8 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lakshman145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmanp145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
