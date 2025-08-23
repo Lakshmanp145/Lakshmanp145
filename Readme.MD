@@ -145,7 +145,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmanp145&theme=dark&hide_border=false&layout=compact" />
 </div>
 
-<!-- ---
+---
 
 ### 🏆 GitHub Trophies
 <div align="center">
